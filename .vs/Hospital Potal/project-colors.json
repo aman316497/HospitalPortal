@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7de9fc34-b224-47cb-bb8f-f71f919b2321": {
+      "ProjectGuid": "7de9fc34-b224-47cb-bb8f-f71f919b2321",
+      "DisplayName": "Hospital Potal",
+      "ColorIndex": 0
+    },
+    "e63bea76-7779-4bd3-8b0d-25e270b5f421": {
+      "ProjectGuid": "e63bea76-7779-4bd3-8b0d-25e270b5f421",
+      "DisplayName": "Hospital Portal",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

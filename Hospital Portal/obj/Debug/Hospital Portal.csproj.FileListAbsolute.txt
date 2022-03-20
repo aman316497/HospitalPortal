@@ -1,0 +1,83 @@
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\Hospital Portal.dll.config
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\Hospital Portal.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\Hospital Portal.pdb
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\csc.exe
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\csc.exe.config
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\csc.rsp
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\csi.exe
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\csi.exe.config
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\csi.rsp
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.AppContext.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Console.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.IO.Compression.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Net.Http.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.ValueTuple.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\vbc.exe
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\vbc.exe.config
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\vbc.rsp
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\VBCSCompiler.exe
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\Antlr3.Runtime.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\EntityFramework.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\EntityFramework.SqlServer.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\Newtonsoft.Json.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.Helpers.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.Mvc.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.Optimization.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.Razor.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.WebPages.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.WebPages.Razor.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\WebGrease.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\EntityFramework.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\EntityFramework.SqlServer.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.Helpers.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.Mvc.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.Optimization.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.Razor.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.WebPages.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\System.Web.WebPages.Razor.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\Newtonsoft.Json.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\Antlr3.Runtime.pdb
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\obj\Debug\Hospital Portal.csproj.AssemblyReference.cache
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\obj\Debug\Hospital Portal.csproj.CoreCompileInputs.cache
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\obj\Debug\Hospital Portal.csproj.CopyComplete
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\obj\Debug\Hospital Portal.dll
+C:\Users\AmanVaish\source\repos\Hospital Potal\Hospital Portal\obj\Debug\Hospital Portal.pdb
